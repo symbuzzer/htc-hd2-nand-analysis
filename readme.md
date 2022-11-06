@@ -16,6 +16,7 @@ so if we want to use last 24mb with android, we wont do these. If we do, our las
   
   
 2-UNDERSTANDING HTC HD2 AMAGLDR'S PARTITION STRUCTURE  
+  
 Hi dear friends. I writed a note about aMagldr's partiton system last week and I wanted to share it with you.  
 If you dont know what is mtty, please look this post on xda for installation PC drivers and how to use it: http://forum.xda-developers.com/showthread.php?t=623356  
 After this step, you can communicate with your phones spl via mtty brigde. It is like fastboot or adb, but it is more limited.  
